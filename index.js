@@ -29,5 +29,5 @@ import('random').then((module) => {
         await makeCommit(--n);
     };
 
-    makeCommit(100);
+    makeCommit(500);
 });
